@@ -84,6 +84,10 @@ def run():
     - **[Mathematical Series Visualizations](https://github.com/Shubham111Kandpal/Mathematics_Series_Visualizer)**  
       A Streamlit-based educational app that visually illustrates various mathematical series using 2D plots, 3D plots, animations and spiral plots.  
       🌐 [Live Demo](https://skmathviz.streamlit.app/)
+
+    - **[Trading Tool with Time Series Analysis and Forecasting](https://github.com/Shubham111Kandpal/SK-Portfolio-TradingApp)**  
+      A complete time series analysis toolkit to evaluate stock prices and apply various ML models for future forecasting.  
+      🌐 [Live Demo](https://sktradingtool.streamlit.app/)
     """)
 
     # --- Skills ---
