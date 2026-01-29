@@ -31,8 +31,9 @@ def run():
     # --- Summary ---
     st.subheader("👨‍💻 About Me")
     st.write("""
-    An innovative and results-driven Data Scientist with 4+ years of experience, specializing in AI and machine learning technologies, having a good problem-solving skillset. 
-    Currently working at Outlier.ai, focusing on training AI chatbots using Reinforcement Learning with Human Feedback (RLHF). 
+    An innovative and results-driven Data Scientist with over 5 years of experience, specializing in AI and machine learning technologies, having a good problem-solving skillset. 
+    Currently working at Kipi.ai as a Senior Software Engineer and working on Snowflake, leveraging Snowflake Intelligence, Snowpark, and Cortex.
+    Previously worked with Outlier.ai, focusing on training AI chatbots using Reinforcement Learning with Human Feedback (RLHF). 
     Recently earned an MSc in Data Science with distinction from The University of Surrey, with a dissertation on Adversarial Machine Learning in Facial Recognition Systems. 
     Expertise includes building end-to-end machine learning solutions including skills in NLP, Time Series Analysis, and cloud computing. 
     Strong background in Python, AWS, Statistics, Algorithms, Docker, and CI/CD pipeline development. 
@@ -42,8 +43,12 @@ def run():
     # --- Work Experience ---
     st.subheader("💼 Work Experience")
     st.markdown("""
-    **AI Trainer — Outlier.ai (Sep 2024 – Present)**  
-    - Training and optimizing AI chatbots using RLHF across multiple use-cases (code generation, math, Q&A).  
+    **Senior Software Engineer — Kipi.ai (June 2025 – Present)**  
+    - Working on Snowflake and building ML related projects requiring time series analysis and complete database creation.  
+    - Leveraging Snowflake Intelligence to build RAG chatbots for natural language to get AI enabled insights from the database.
+
+    **AI Trainer — Outlier.ai (Sep 2024 – April 2025)**  
+    - Trained and optimized AI chatbots using RLHF across multiple use-cases (code generation, math, Q&A).  
     - Collaborate with cross-functional teams to enhance AI accuracy and interaction quality for Meta, Gemini, OpenAI, and Claude.  
 
     **Stock Trader — Bombay Stock Exchange (Jun 2022 – Jun 2023)**  
