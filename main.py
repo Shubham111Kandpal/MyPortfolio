@@ -18,8 +18,7 @@ def run():
         MSc Distinction – University of Surrey
         
         📍 London, UK  
-        📧 [Email](mailto:shubham.kandpal@gmail.com)  
-        📞 +44 7407 844770  
+        📧 [Email](mailto:shubham.kandpal@gmail.com)   
         
         [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubham-kandpal-035711165)  
         [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Shubham111Kandpal)
