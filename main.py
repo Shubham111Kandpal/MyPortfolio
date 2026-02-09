@@ -14,10 +14,9 @@ def run():
         st.image(profile_pic, width=150)
         st.title("Shubham Kandpal")
         st.markdown("""
-        **AI & Data Science Professional**  
-        MSc Distinction – University of Surrey
+        **Senior Software Engineer @ KIPI.AI**  
+        MSc Data Science (Distinction) – University of Surrey
         
-        📍 London, UK  
         📧 [Email](mailto:shubham.kandpal@gmail.com)   
         
         [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubham-kandpal-035711165)  
