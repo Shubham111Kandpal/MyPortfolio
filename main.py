@@ -96,12 +96,12 @@ def run():
     # --- Skills ---
     st.subheader("🛠 Technical Skills")
     st.markdown("""
-    **Languages**: Python, R, SQL, JS, HTML, CSS, SAP ABAP  
+    **Languages**: Python, R, SQL, JS, HTML, CSS, SAP ABAP, SnowSQL  
     **ML/DS**: Regression, Classification, NLP, Transformers, Time Series, LSTM  
-    **Libraries**: TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, Spacy  
+    **Libraries**: TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, Spacy, Snowpark  
     **Frameworks**: Flask, FastAPI, Django, Streamlit  
-    **Tools**: Docker, Git, Tableau, Jupyter, VS Code  
-    **Cloud & DevOps**: AWS (Lambda, EC2, S3), GCP, GitLab CI/CD  
+    **Tools**: Docker, Git, Tableau, Jupyter, VS Code, Cortex AI  
+    **Cloud & DevOps**: AWS (Lambda, EC2, S3), GCP, GitLab CI/CD, Snowflake, Snowflake Intelligence  
     **Other**: Agile, CRISP-DM, Jira, SCRUM
     """)
 
@@ -116,6 +116,7 @@ def run():
     # --- Certifications ---
     st.subheader("📜 Certifications")
     st.markdown("""
+    - SnowPro Core Certified (Verified by Snowflake)
     - SAP ABAP (TCS Verified)  
     - Foundations of DS/ML in SAP (SAP Verified)  
     - Python 3 (Udemy Verified)
